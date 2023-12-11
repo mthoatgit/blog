@@ -45,7 +45,7 @@ process with six phases was devised::
 
 ![Alt text](/waterfall.png)
 
-<img src="/static/waterfall.png" alt="Alt text">
+<img src="https://mthoatgit.github.io/blog/waterfall.png" alt="Alt text">
 
 As previously noted, the issue with the waterfall process is evident in its name. It follows a single, unidirectional
 path, making it difficult and costly to backtrack to a previous phase once completed. This led to the development of a
