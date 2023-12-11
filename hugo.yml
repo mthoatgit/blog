@@ -2,7 +2,7 @@ baseURL: https://mthoatgit.github.io/
 
 title: PaperMod321
 paginate: 5
-theme: paper
+theme: PaperMod
 
 enableInlineShortcodes: true
 enableRobotsTXT: true
