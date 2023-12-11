@@ -85,7 +85,6 @@ params:
     Content: >
       Software Developer
       - Spring Boot
-      
 
   socialIcons:
     - name: github

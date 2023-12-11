@@ -43,7 +43,9 @@ clue about its inherent issue. Let me quickly explain its nature. The waterfall 
 of a software project were not clearly understood. In an attempt to formalize the fundamental structure. As a result a
 process with six phases was devised::
 
-![Alt text](/agile_vs_scrum/waterfall.png)
+![Alt text](/waterfall.png)
+
+<img src="/static/waterfall.png" alt="Alt text">
 
 As previously noted, the issue with the waterfall process is evident in its name. It follows a single, unidirectional
 path, making it difficult and costly to backtrack to a previous phase once completed. This led to the development of a
@@ -71,7 +73,7 @@ feedback from the customer is an integral part of the process, ensuring that the
 aligns with evolving requirements and expectations. You could say the idea of Scrum is to have many little
 waterfall processes instead of a big one.
 
-![Alt text](/agile_vs_scrum/scrum.png)
+![Alt text](/scrum.png)
 
 While the benefits of the agile mindset and even Scrum are evident to most people, as it addresses the main issues of
 the waterfall process, there is still a considerable amount of frustration persisting in the real world.
