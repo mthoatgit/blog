@@ -1,8 +1,8 @@
 ---
 author: "Hugo Authors"
-title: "Can agile projects be fun?"
+title: "Why are agile projects no fun sometimes?"
 date: "2023-12-11"
-description: "Sample article showcasing basic Markdown syntax and formatting for HTML elements."
+#description: "Sample article showcasing basic Markdown syntax and formatting for HTML elements."
 #tags: ["markdown", "css", "html", "themes"]
 categories: ["themes", "syntax"]
 series: ["Themes Guide"]
