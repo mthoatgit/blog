@@ -81,10 +81,10 @@ params:
         url: tags
 
   homeInfoParams:
-    Title: "Marco Thormann"
+#    Title: "Marco Thormann"
     Content: >
-      Software Developer
-      - Spring Boot
+#      Software Developer
+#      - Spring Boot
 
   socialIcons:
     - name: github
