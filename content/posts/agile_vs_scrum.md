@@ -1,6 +1,6 @@
 ---
 author: "Hugo Authors"
-title: "Why are agile projects no fun sometimes?"
+title: "The dark side of agile projects"
 date: "2023-12-11"
 #description: "Sample article showcasing basic Markdown syntax and formatting for HTML elements."
 #tags: ["markdown", "css", "html", "themes"]
@@ -23,7 +23,7 @@ lies in the fact that we've formulated a mindset, an equation that's ingrained i
 * Agile = Scrum
 
 Well, no, this oversimplification is flawed. In essence, Agile is not synonymous with Scrum but Scrum is one way to
-embody Agile principles. To draw any analogy:
+embody Agile principles. To draw an analogy:
 
 * Mobile != Car
 * Animalistic != Dog
