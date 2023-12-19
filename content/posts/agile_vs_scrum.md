@@ -58,9 +58,9 @@ foundational statement of values and principles that underpin Agile software dev
 
 The main lessons I extracted from the manifest:
 
-* Highest priority is to satisfy the customer through continuous delivery of valuable software.
+* Satisfy the customer through continuous delivery of valuable software.
 * Welcome changing requirements, even late in development.
-* Deliver working software frequently, with a preference for shorter timescales, ideally in weeks or months.
+* Deliver working software frequently, ideally in weeks or months.
 * Collaboration between customers and developers should occur regular.
 * Build projects around motivated individuals and give them the environment and support they need.
 
