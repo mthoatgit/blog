@@ -20,16 +20,10 @@ Agile approach is essential for a successful software project, and so we adhere 
 superiority over traditional methods, but it struggles to resonate with our day-to-day reality. In my view, the issue
 lies in the fact that we've formulated a mindset, an equation that's ingrained in our thinking:
 
-* Agile == Scrum
+Agile == Scrum
 
-Well, no, this oversimplification is flawed. In essence, Agile is not synonymous with Scrum but Scrum is one way to
-embody Agile principles. To draw an analogy:
-
-* mobile != car
-* animalistic != dog
-* vegetarian != carrot
-
-Scrum represents just **one** approach to Agile software development. An Agile work environment is achievable with or
+Well, no, this oversimplification is obviously flawed. In essence, Agile is not synonymous with Scrum but Scrum is one way to
+embody Agile principles. Scrum represents just **one** approach to Agile software development. An Agile work environment is achievable with or
 without Scrum. I'm not one of these Agile shamans that say that success hinges on flawless execution of the Scrum
 process. As far as I'm concerned it simply takes more than just giving your middle management a Scrum Master Certificate
 to have the benefits of an Agile project. The crucial factor is to remember and apply the lessons we've learned over
@@ -58,9 +52,9 @@ foundational statement of values and principles that underpin Agile software dev
 
 The main lessons I extracted from the manifest:
 
-* Satisfy the customer through continuous delivery of valuable software.
+* Highest priority is to satisfy the customer through continuous delivery of valuable software.
 * Welcome changing requirements, even late in development.
-* Deliver working software frequently, ideally in weeks or months.
+* Deliver working software frequently, with a preference for shorter timescales, ideally in weeks or months.
 * Collaboration between customers and developers should occur regular.
 * Build projects around motivated individuals and give them the environment and support they need.
 
